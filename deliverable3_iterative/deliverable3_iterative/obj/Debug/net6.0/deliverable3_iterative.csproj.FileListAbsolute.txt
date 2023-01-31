@@ -1,0 +1,15 @@
+D:\School\deliverable3_iterative\deliverable3_iterative\bin\Debug\net6.0\deliverable3_iterative.exe
+D:\School\deliverable3_iterative\deliverable3_iterative\bin\Debug\net6.0\deliverable3_iterative.deps.json
+D:\School\deliverable3_iterative\deliverable3_iterative\bin\Debug\net6.0\deliverable3_iterative.runtimeconfig.json
+D:\School\deliverable3_iterative\deliverable3_iterative\bin\Debug\net6.0\deliverable3_iterative.dll
+D:\School\deliverable3_iterative\deliverable3_iterative\bin\Debug\net6.0\deliverable3_iterative.pdb
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.csproj.AssemblyReference.cache
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.AssemblyInfoInputs.cache
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.AssemblyInfo.cs
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.csproj.CoreCompileInputs.cache
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.dll
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\refint\deliverable3_iterative.dll
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.pdb
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\deliverable3_iterative.genruntimeconfig.cache
+D:\School\deliverable3_iterative\deliverable3_iterative\obj\Debug\net6.0\ref\deliverable3_iterative.dll
